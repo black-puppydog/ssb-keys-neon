@@ -97,7 +97,7 @@ jobs:
       matrix:
         electron-version: [7, 8, 9, 10]
         node-version: [12.x]
-        os: [ubuntu-latest, macos-latest, windows-latest]
+        os: [ubuntu-latest, macos-latest, windows-latest, ARM64]
 
     runs-on: ${{ matrix.os }}
 

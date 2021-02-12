@@ -1,13 +1,13 @@
 {
-  "name": "ssb-keys-neon",
-  "version": "8.0.0-9",
+  "name": "ssb-keys-neon-debug-eenahr-oseefeo",
+  "version": "8.0.0-10",
   "description": "Rust-in-Node.js variant of ssb-keys",
   "main": "lib/index.js",
-  "author": "Andre Staltz <andre@staltz.com>",
+  "author": "Daan Wynen <ssb+keys+neon@muchmuch.coffee>",
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/staltz/ssb-keys-neon.git"
+    "url": "git+https://github.com/black-puppydog/ssb-keys-neon.git"
   },
   "dependencies": {
     "neon-cli": "~0.5.1",
