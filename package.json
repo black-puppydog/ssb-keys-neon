@@ -1,6 +1,6 @@
 {
   "name": "ssb-keys-neon-debug-eenahr-oseefeo",
-  "version": "8.0.0-10",
+  "version": "8.0.0-11",
   "description": "Rust-in-Node.js variant of ssb-keys",
   "main": "lib/index.js",
   "author": "Daan Wynen <ssb+keys+neon@muchmuch.coffee>",
